@@ -20,3 +20,8 @@ cdn example:
 # file = coffee-cup.jpg
 # https://gitcdn.xyz/repo/{uploads}/{domain}/{state}/{file}
 ```
+
+command to get latest commit hash:
+```bash
+$ git rev-parse HEAD
+```
