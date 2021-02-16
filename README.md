@@ -6,8 +6,12 @@ use this file/folder stucture:
 # ./{domain}/{state}/**/*.png
 ```
 
-production:
-- https://gitcdn.xyz/repo/trabur/istrav-uploads/master/printedbasics.com/production/coffee-cup.jpg
+cdn vars:
+- https://rawcdn.githack.com/<user>/<repo-name>/<latest-commit-hash>/<domain>/<state>/<file>
+- https://rawcdn.githack.com/<uploads>/<domain>/<state>/<file>
+
+cdn example:
+- https://rawcdn.githack.com/trabur/istrav-uploads/cb72242401122ad21876bdc16fff309d01a29aca/istrav.com/production/heic1901a.jpg
 
 ```bash
 # uploads = trabur/istrav-uploads/master
